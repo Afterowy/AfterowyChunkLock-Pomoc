@@ -8,6 +8,7 @@
   /chunk zapros (gracz) - zaprasza gracza do chunka
   /chunk akceptuj - akceptuje zaproszenie do chunka
   /chunk opusc - opuszcza chunka
+  /chunk usun - usuwa chunk
   /chunk wlasciciel (gracz) - zmienia właściciela chunka
   /chunk ustaw-dom - ustawia nowy dom chunka
   /chunk warp - lista warpów gdy ktoś utworzył takowy na chunku
