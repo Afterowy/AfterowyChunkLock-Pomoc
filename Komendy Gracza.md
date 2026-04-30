@@ -13,6 +13,7 @@
   /chunk ustaw-dom - ustawia nowy dom chunka
   /chunk warp - lista warpów gdy ktoś utworzył takowy na chunku
   /chunk setwarp (nazwa) - ustawia warp na chunku
+  /chunk misje - misje Twojego chunka
 ```
 
 ### Uprawnienia do tych komend: afterowychunklock.commands.player
